@@ -1,5 +1,5 @@
 # Weijing Wu
-# COMP 490 HW1
+# COMP 490 HW Project
 
 import product
 import tax
