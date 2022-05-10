@@ -1,7 +1,7 @@
 Name: Weijing Wu
-Homework1
+project
 
-At this homework, please run main.py
+At this project, please run main.py
 When you run it, you will follow the question to do a casher process in supermarket.
 
 At NH is duty free state, so is 0 tax.
